@@ -1,6 +1,6 @@
 # Desafio DIO - Crie o seu NFT de Pokemon com Blockchain
 
-Projeto de desenvolvimento de um  token NFT no padrão ERC-721, simulando um jogo de batalhas entre Pokemons.
+Projeto de desenvolvimento de um token NFT no padrão ERC-721, simulando um jogo de batalhas entre Pokemons.
 
 ---
 
